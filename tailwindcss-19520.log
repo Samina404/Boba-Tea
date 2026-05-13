@@ -1,0 +1,193 @@
+2026-05-13T17:29:41.469463Z  INFO tailwindcss_oxide::scanner: Provided sources:
+2026-05-13T17:29:41.487265Z  INFO tailwindcss_oxide::scanner: Source: PublicSourceEntry { base: "F:\\My work\\Boba Tea", pattern: "**/*", negated: false }
+2026-05-13T17:29:41.585961Z  INFO tailwindcss_oxide::scanner: Optimized sources:
+2026-05-13T17:29:41.586320Z  INFO tailwindcss_oxide::scanner: Source: Auto { base: "F:\\My work\\Boba Tea" }
+2026-05-13T17:29:41.945534Z  INFO discover_sources: tailwindcss_oxide::scanner: enter
+2026-05-13T17:29:42.100017Z  INFO discover_sources:walk_synchronous: tailwindcss_oxide::scanner: enter
+2026-05-13T17:29:42.113789Z  INFO discover_sources:walk_synchronous: tailwindcss_oxide::scanner: exit
+2026-05-13T17:29:42.222296Z  INFO tailwindcss_oxide::scanner: Reading "F:\\My work\\Boba Tea\\src\\components\\Hero.tsx"
+2026-05-13T17:29:42.222350Z  INFO tailwindcss_oxide::scanner: Reading "F:\\My work\\Boba Tea\\public\\vercel.svg"
+2026-05-13T17:29:42.222350Z  INFO tailwindcss_oxide::scanner: Reading "F:\\My work\\Boba Tea\\public\\file.svg"
+2026-05-13T17:29:42.222364Z  INFO tailwindcss_oxide::scanner: Reading "F:\\My work\\Boba Tea\\next.config.ts"
+2026-05-13T17:29:42.244060Z  INFO tailwindcss_oxide::scanner: Reading "F:\\My work\\Boba Tea\\package.json"
+2026-05-13T17:29:42.244090Z  INFO tailwindcss_oxide::scanner: Reading "F:\\My work\\Boba Tea\\public\\window.svg"
+2026-05-13T17:29:42.244103Z  INFO tailwindcss_oxide::scanner: Reading "F:\\My work\\Boba Tea\\CLAUDE.md"
+2026-05-13T17:29:42.244071Z  INFO tailwindcss_oxide::scanner: Reading "F:\\My work\\Boba Tea\\AGENTS.md"
+2026-05-13T17:29:42.244225Z  INFO tailwindcss_oxide::scanner: Reading "F:\\My work\\Boba Tea\\eslint.config.mjs"
+2026-05-13T17:29:42.244226Z  INFO tailwindcss_oxide::scanner: Reading "F:\\My work\\Boba Tea\\postcss.config.mjs"
+2026-05-13T17:29:42.249464Z  INFO tailwindcss_oxide::scanner: Reading "F:\\My work\\Boba Tea\\public\\globe.svg"
+2026-05-13T17:29:42.253323Z  INFO tailwindcss_oxide::scanner: Reading "F:\\My work\\Boba Tea\\src\\components\\Navbar.tsx"
+2026-05-13T17:29:42.257073Z  INFO tailwindcss_oxide::scanner: Reading "F:\\My work\\Boba Tea\\src\\components\\Features.tsx"
+2026-05-13T17:29:42.257217Z  INFO tailwindcss_oxide::scanner: Reading "F:\\My work\\Boba Tea\\src\\components\\BestSellers.tsx"
+2026-05-13T17:29:42.259666Z  INFO tailwindcss_oxide::scanner: Reading "F:\\My work\\Boba Tea\\src\\app\\layout.tsx"
+2026-05-13T17:29:42.259666Z  INFO tailwindcss_oxide::scanner: Reading "F:\\My work\\Boba Tea\\src\\components\\FAQ.tsx"
+2026-05-13T17:29:42.259849Z  INFO tailwindcss_oxide::scanner: Reading "F:\\My work\\Boba Tea\\src\\components\\Newsletter.tsx"
+2026-05-13T17:29:42.259867Z  INFO tailwindcss_oxide::scanner: Reading "F:\\My work\\Boba Tea\\src\\components\\Footer.tsx"
+2026-05-13T17:29:42.260041Z  INFO tailwindcss_oxide::scanner: Reading "F:\\My work\\Boba Tea\\tsconfig.json"
+2026-05-13T17:29:42.262445Z  INFO tailwindcss_oxide::scanner: Reading "F:\\My work\\Boba Tea\\src\\components\\Story.tsx"
+2026-05-13T17:29:42.262445Z  INFO tailwindcss_oxide::scanner: Reading "F:\\My work\\Boba Tea\\src\\components\\Gallery.tsx"
+2026-05-13T17:29:42.281081Z  INFO tailwindcss_oxide::scanner: Reading "F:\\My work\\Boba Tea\\README.md"
+2026-05-13T17:29:42.283172Z  INFO tailwindcss_oxide::scanner: Reading "F:\\My work\\Boba Tea\\public\\next.svg"
+2026-05-13T17:29:42.301693Z  INFO tailwindcss_oxide::scanner: Reading "F:\\My work\\Boba Tea\\src\\components\\FrameVideo.tsx"
+2026-05-13T17:29:42.313209Z  INFO tailwindcss_oxide::scanner: Reading "F:\\My work\\Boba Tea\\src\\components\\Testimonials.tsx"
+2026-05-13T17:29:42.323858Z  INFO tailwindcss_oxide::scanner: Reading "F:\\My work\\Boba Tea\\src\\components\\SpecialOffer.tsx"
+2026-05-13T17:29:42.801666Z  INFO tailwindcss_oxide::scanner: Reading "F:\\My work\\Boba Tea\\src\\app\\page.tsx"
+2026-05-13T17:29:42.802470Z  INFO discover_sources: tailwindcss_oxide::scanner: exit
+2026-05-13T17:29:42.802509Z  INFO extract_candidates: tailwindcss_oxide::scanner: enter
+2026-05-13T17:29:42.802517Z  INFO extract_candidates:parse_all_blobs: tailwindcss_oxide::scanner: enter
+2026-05-13T17:29:42.802603Z  INFO extract_candidates:parse_all_blobs:extract: tailwindcss_oxide::scanner: enter
+2026-05-13T17:29:42.803905Z  INFO extract_candidates:parse_all_blobs:extract: tailwindcss_oxide::scanner: exit
+2026-05-13T17:29:42.803935Z  INFO extract_candidates:parse_all_blobs: tailwindcss_oxide::scanner: exit
+2026-05-13T17:29:42.803949Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: enter
+2026-05-13T17:29:42.803954Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: Reading 1 file(s)
+2026-05-13T17:29:42.804277Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: Reading "F:\\My work\\Boba Tea\\src\\app\\globals.css"
+2026-05-13T17:29:42.804297Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: exit
+2026-05-13T17:29:42.804304Z  INFO extract_candidates:extract_css_variables: tailwindcss_oxide::scanner: enter
+2026-05-13T17:29:42.804310Z  INFO extract_candidates:extract_css_variables:extract: tailwindcss_oxide::scanner: enter
+2026-05-13T17:29:42.804398Z  INFO extract_candidates:extract_css_variables:extract: tailwindcss_oxide::scanner: exit
+2026-05-13T17:29:42.804420Z  INFO extract_candidates:extract_css_variables: tailwindcss_oxide::scanner: exit
+2026-05-13T17:29:42.804604Z  INFO extract_candidates: tailwindcss_oxide::scanner: exit
+2026-05-13T17:29:42.805164Z  INFO get_files: tailwindcss_oxide::scanner: enter
+2026-05-13T17:29:42.805180Z  INFO get_files:discover_sources: tailwindcss_oxide::scanner: enter
+2026-05-13T17:29:42.805186Z  INFO get_files:discover_sources: tailwindcss_oxide::scanner: exit
+2026-05-13T17:29:42.805258Z  INFO get_files: tailwindcss_oxide::scanner: exit
+2026-05-13T17:29:42.805688Z  INFO get_globs: tailwindcss_oxide::scanner: enter
+2026-05-13T17:29:42.805704Z  INFO get_globs:discover_sources: tailwindcss_oxide::scanner: enter
+2026-05-13T17:29:42.805710Z  INFO get_globs:discover_sources: tailwindcss_oxide::scanner: exit
+2026-05-13T17:29:42.834178Z  INFO get_globs: tailwindcss_oxide::scanner: exit
+2026-05-13T17:29:54.176004Z  INFO discover_sources: tailwindcss_oxide::scanner: enter
+2026-05-13T17:29:54.176073Z  INFO discover_sources:walk_parallel: tailwindcss_oxide::scanner: enter
+2026-05-13T17:29:54.276001Z  INFO discover_sources:walk_parallel: tailwindcss_oxide::scanner: exit
+2026-05-13T17:29:54.276737Z  INFO tailwindcss_oxide::scanner: Reading "F:\\My work\\Boba Tea\\public\\window.svg"
+2026-05-13T17:29:54.276738Z  INFO tailwindcss_oxide::scanner: Reading "F:\\My work\\Boba Tea\\src\\app\\layout.tsx"
+2026-05-13T17:29:54.276737Z  INFO tailwindcss_oxide::scanner: Reading "F:\\My work\\Boba Tea\\public\\globe.svg"
+2026-05-13T17:29:54.276739Z  INFO tailwindcss_oxide::scanner: Reading "F:\\My work\\Boba Tea\\src\\components\\FAQ.tsx"
+2026-05-13T17:29:54.276750Z  INFO tailwindcss_oxide::scanner: Reading "F:\\My work\\Boba Tea\\CLAUDE.md"
+2026-05-13T17:29:54.276803Z  INFO tailwindcss_oxide::scanner: Reading "F:\\My work\\Boba Tea\\public\\vercel.svg"
+2026-05-13T17:29:54.276750Z  INFO tailwindcss_oxide::scanner: Reading "F:\\My work\\Boba Tea\\src\\components\\Navbar.tsx"
+2026-05-13T17:29:54.276829Z  INFO tailwindcss_oxide::scanner: Reading "F:\\My work\\Boba Tea\\public\\file.svg"
+2026-05-13T17:29:54.276850Z  INFO tailwindcss_oxide::scanner: Reading "F:\\My work\\Boba Tea\\src\\components\\Features.tsx"
+2026-05-13T17:29:54.276858Z  INFO tailwindcss_oxide::scanner: Reading "F:\\My work\\Boba Tea\\public\\next.svg"
+2026-05-13T17:29:54.276880Z  INFO tailwindcss_oxide::scanner: Reading "F:\\My work\\Boba Tea\\src\\components\\Hero.tsx"
+2026-05-13T17:29:54.276886Z  INFO tailwindcss_oxide::scanner: Reading "F:\\My work\\Boba Tea\\tsconfig.json"
+2026-05-13T17:29:54.276889Z  INFO tailwindcss_oxide::scanner: Reading "F:\\My work\\Boba Tea\\src\\components\\BestSellers.tsx"
+2026-05-13T17:29:54.276908Z  INFO tailwindcss_oxide::scanner: Reading "F:\\My work\\Boba Tea\\src\\components\\Gallery.tsx"
+2026-05-13T17:29:54.276917Z  INFO tailwindcss_oxide::scanner: Reading "F:\\My work\\Boba Tea\\next.config.ts"
+2026-05-13T17:29:54.276812Z  INFO tailwindcss_oxide::scanner: Reading "F:\\My work\\Boba Tea\\src\\components\\Footer.tsx"
+2026-05-13T17:29:54.276936Z  INFO tailwindcss_oxide::scanner: Reading "F:\\My work\\Boba Tea\\src\\components\\Newsletter.tsx"
+2026-05-13T17:29:54.276957Z  INFO tailwindcss_oxide::scanner: Reading "F:\\My work\\Boba Tea\\src\\app\\page.tsx"
+2026-05-13T17:29:54.276957Z  INFO tailwindcss_oxide::scanner: Reading "F:\\My work\\Boba Tea\\eslint.config.mjs"
+2026-05-13T17:29:54.276959Z  INFO tailwindcss_oxide::scanner: Reading "F:\\My work\\Boba Tea\\src\\components\\FrameVideo.tsx"
+2026-05-13T17:29:54.277052Z  INFO tailwindcss_oxide::scanner: Reading "F:\\My work\\Boba Tea\\AGENTS.md"
+2026-05-13T17:29:54.276961Z  INFO tailwindcss_oxide::scanner: Reading "F:\\My work\\Boba Tea\\src\\components\\Story.tsx"
+2026-05-13T17:29:54.276801Z  INFO tailwindcss_oxide::scanner: Reading "F:\\My work\\Boba Tea\\src\\components\\Testimonials.tsx"
+2026-05-13T17:29:54.277079Z  INFO tailwindcss_oxide::scanner: Reading "F:\\My work\\Boba Tea\\src\\components\\SpecialOffer.tsx"
+2026-05-13T17:29:54.277085Z  INFO tailwindcss_oxide::scanner: Reading "F:\\My work\\Boba Tea\\postcss.config.mjs"
+2026-05-13T17:29:54.277106Z  INFO tailwindcss_oxide::scanner: Reading "F:\\My work\\Boba Tea\\README.md"
+2026-05-13T17:29:54.277114Z  INFO tailwindcss_oxide::scanner: Reading "F:\\My work\\Boba Tea\\package.json"
+2026-05-13T17:29:54.277149Z  INFO discover_sources: tailwindcss_oxide::scanner: exit
+2026-05-13T17:29:54.277162Z  INFO extract_candidates: tailwindcss_oxide::scanner: enter
+2026-05-13T17:29:54.277168Z  INFO extract_candidates:parse_all_blobs: tailwindcss_oxide::scanner: enter
+2026-05-13T17:29:54.277173Z  INFO extract_candidates:parse_all_blobs:extract: tailwindcss_oxide::scanner: enter
+2026-05-13T17:29:54.277764Z  INFO extract_candidates:parse_all_blobs:extract: tailwindcss_oxide::scanner: exit
+2026-05-13T17:29:54.277798Z  INFO extract_candidates:parse_all_blobs: tailwindcss_oxide::scanner: exit
+2026-05-13T17:29:54.277808Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: enter
+2026-05-13T17:29:54.277812Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: Reading 1 file(s)
+2026-05-13T17:29:54.278032Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: Reading "F:\\My work\\Boba Tea\\src\\app\\globals.css"
+2026-05-13T17:29:54.278048Z  INFO extract_candidates:read_all_files: tailwindcss_oxide::scanner: exit
+2026-05-13T17:29:54.278057Z  INFO extract_candidates:extract_css_variables: tailwindcss_oxide::scanner: enter
+2026-05-13T17:29:54.278063Z  INFO extract_candidates:extract_css_variables:extract: tailwindcss_oxide::scanner: enter
+2026-05-13T17:29:54.278428Z  INFO extract_candidates:extract_css_variables:extract: tailwindcss_oxide::scanner: exit
+2026-05-13T17:29:54.278449Z  INFO extract_candidates:extract_css_variables: tailwindcss_oxide::scanner: exit
+2026-05-13T17:29:54.278519Z  INFO extract_candidates: tailwindcss_oxide::scanner: exit
+2026-05-13T17:29:54.279052Z  INFO get_files: tailwindcss_oxide::scanner: enter
+2026-05-13T17:29:54.279082Z  INFO get_files:discover_sources: tailwindcss_oxide::scanner: enter
+2026-05-13T17:29:54.279089Z  INFO get_files:discover_sources: tailwindcss_oxide::scanner: exit
+2026-05-13T17:29:54.279172Z  INFO get_files: tailwindcss_oxide::scanner: exit
+2026-05-13T17:29:54.279384Z  INFO get_globs: tailwindcss_oxide::scanner: enter
+2026-05-13T17:29:54.279403Z  INFO get_globs: tailwindcss_oxide::scanner: exit
+2026-05-13T17:29:59.785422Z  INFO discover_sources: tailwindcss_oxide::scanner: enter
+2026-05-13T17:29:59.785461Z  INFO discover_sources:walk_parallel: tailwindcss_oxide::scanner: enter
+2026-05-13T17:29:59.793982Z  INFO discover_sources:walk_parallel: tailwindcss_oxide::scanner: exit
+2026-05-13T17:29:59.795130Z  INFO discover_sources: tailwindcss_oxide::scanner: Reading "F:\\My work\\Boba Tea\\src\\components\\Hero.tsx"
+2026-05-13T17:29:59.795175Z  INFO discover_sources: tailwindcss_oxide::scanner: exit
+2026-05-13T17:29:59.795188Z  INFO extract_candidates: tailwindcss_oxide::scanner: enter
+2026-05-13T17:29:59.795203Z  INFO extract_candidates:parse_all_blobs: tailwindcss_oxide::scanner: enter
+2026-05-13T17:29:59.795213Z  INFO extract_candidates:parse_all_blobs:extract: tailwindcss_oxide::scanner: enter
+2026-05-13T17:29:59.857468Z  INFO extract_candidates:parse_all_blobs:extract: tailwindcss_oxide::scanner: exit
+2026-05-13T17:29:59.857516Z  INFO extract_candidates:parse_all_blobs: tailwindcss_oxide::scanner: exit
+2026-05-13T17:29:59.857552Z  INFO extract_candidates: tailwindcss_oxide::scanner: exit
+2026-05-13T17:29:59.858098Z  INFO get_files: tailwindcss_oxide::scanner: enter
+2026-05-13T17:29:59.858120Z  INFO get_files:discover_sources: tailwindcss_oxide::scanner: enter
+2026-05-13T17:29:59.858127Z  INFO get_files:discover_sources: tailwindcss_oxide::scanner: exit
+2026-05-13T17:29:59.858234Z  INFO get_files: tailwindcss_oxide::scanner: exit
+2026-05-13T17:29:59.858455Z  INFO get_globs: tailwindcss_oxide::scanner: enter
+2026-05-13T17:29:59.858475Z  INFO get_globs: tailwindcss_oxide::scanner: exit
+2026-05-13T17:30:09.289890Z  INFO discover_sources: tailwindcss_oxide::scanner: enter
+2026-05-13T17:30:09.289959Z  INFO discover_sources:walk_parallel: tailwindcss_oxide::scanner: enter
+2026-05-13T17:30:09.306730Z  INFO discover_sources:walk_parallel: tailwindcss_oxide::scanner: exit
+2026-05-13T17:30:09.311733Z  INFO discover_sources: tailwindcss_oxide::scanner: Reading "F:\\My work\\Boba Tea\\src\\components\\FrameVideo.tsx"
+2026-05-13T17:30:09.311784Z  INFO discover_sources: tailwindcss_oxide::scanner: exit
+2026-05-13T17:30:09.311795Z  INFO extract_candidates: tailwindcss_oxide::scanner: enter
+2026-05-13T17:30:09.311801Z  INFO extract_candidates:parse_all_blobs: tailwindcss_oxide::scanner: enter
+2026-05-13T17:30:09.311807Z  INFO extract_candidates:parse_all_blobs:extract: tailwindcss_oxide::scanner: enter
+2026-05-13T17:30:09.311986Z  INFO extract_candidates:parse_all_blobs:extract: tailwindcss_oxide::scanner: exit
+2026-05-13T17:30:09.312020Z  INFO extract_candidates:parse_all_blobs: tailwindcss_oxide::scanner: exit
+2026-05-13T17:30:09.312076Z  INFO extract_candidates: tailwindcss_oxide::scanner: exit
+2026-05-13T17:30:09.313168Z  INFO get_files: tailwindcss_oxide::scanner: enter
+2026-05-13T17:30:09.313196Z  INFO get_files:discover_sources: tailwindcss_oxide::scanner: enter
+2026-05-13T17:30:09.313207Z  INFO get_files:discover_sources: tailwindcss_oxide::scanner: exit
+2026-05-13T17:30:09.313387Z  INFO get_files: tailwindcss_oxide::scanner: exit
+2026-05-13T17:30:09.313599Z  INFO get_globs: tailwindcss_oxide::scanner: enter
+2026-05-13T17:30:09.313612Z  INFO get_globs: tailwindcss_oxide::scanner: exit
+2026-05-13T17:31:25.217294Z  INFO discover_sources: tailwindcss_oxide::scanner: enter
+2026-05-13T17:31:25.217354Z  INFO discover_sources:walk_parallel: tailwindcss_oxide::scanner: enter
+2026-05-13T17:31:25.228801Z  INFO discover_sources:walk_parallel: tailwindcss_oxide::scanner: exit
+2026-05-13T17:31:25.229992Z  INFO discover_sources: tailwindcss_oxide::scanner: Reading "F:\\My work\\Boba Tea\\src\\components\\Hero.tsx"
+2026-05-13T17:31:25.230057Z  INFO discover_sources: tailwindcss_oxide::scanner: exit
+2026-05-13T17:31:25.230071Z  INFO extract_candidates: tailwindcss_oxide::scanner: enter
+2026-05-13T17:31:25.230077Z  INFO extract_candidates:parse_all_blobs: tailwindcss_oxide::scanner: enter
+2026-05-13T17:31:25.230083Z  INFO extract_candidates:parse_all_blobs:extract: tailwindcss_oxide::scanner: enter
+2026-05-13T17:31:25.230504Z  INFO extract_candidates:parse_all_blobs:extract: tailwindcss_oxide::scanner: exit
+2026-05-13T17:31:25.230534Z  INFO extract_candidates:parse_all_blobs: tailwindcss_oxide::scanner: exit
+2026-05-13T17:31:25.230570Z  INFO extract_candidates: tailwindcss_oxide::scanner: exit
+2026-05-13T17:31:25.231209Z  INFO get_files: tailwindcss_oxide::scanner: enter
+2026-05-13T17:31:25.231230Z  INFO get_files:discover_sources: tailwindcss_oxide::scanner: enter
+2026-05-13T17:31:25.231239Z  INFO get_files:discover_sources: tailwindcss_oxide::scanner: exit
+2026-05-13T17:31:25.231452Z  INFO get_files: tailwindcss_oxide::scanner: exit
+2026-05-13T17:31:25.231618Z  INFO get_globs: tailwindcss_oxide::scanner: enter
+2026-05-13T17:31:25.231632Z  INFO get_globs: tailwindcss_oxide::scanner: exit
+2026-05-13T17:33:18.810148Z  INFO discover_sources: tailwindcss_oxide::scanner: enter
+2026-05-13T17:33:18.810210Z  INFO discover_sources:walk_parallel: tailwindcss_oxide::scanner: enter
+2026-05-13T17:33:18.817834Z  INFO discover_sources:walk_parallel: tailwindcss_oxide::scanner: exit
+2026-05-13T17:33:18.818872Z  INFO discover_sources: tailwindcss_oxide::scanner: Reading "F:\\My work\\Boba Tea\\src\\components\\Hero.tsx"
+2026-05-13T17:33:18.818914Z  INFO discover_sources: tailwindcss_oxide::scanner: exit
+2026-05-13T17:33:18.818922Z  INFO extract_candidates: tailwindcss_oxide::scanner: enter
+2026-05-13T17:33:18.818928Z  INFO extract_candidates:parse_all_blobs: tailwindcss_oxide::scanner: enter
+2026-05-13T17:33:18.818934Z  INFO extract_candidates:parse_all_blobs:extract: tailwindcss_oxide::scanner: enter
+2026-05-13T17:33:18.819198Z  INFO extract_candidates:parse_all_blobs:extract: tailwindcss_oxide::scanner: exit
+2026-05-13T17:33:18.819216Z  INFO extract_candidates:parse_all_blobs: tailwindcss_oxide::scanner: exit
+2026-05-13T17:33:18.819264Z  INFO extract_candidates: tailwindcss_oxide::scanner: exit
+2026-05-13T17:33:18.819750Z  INFO get_files: tailwindcss_oxide::scanner: enter
+2026-05-13T17:33:18.819763Z  INFO get_files:discover_sources: tailwindcss_oxide::scanner: enter
+2026-05-13T17:33:18.819768Z  INFO get_files:discover_sources: tailwindcss_oxide::scanner: exit
+2026-05-13T17:33:18.819836Z  INFO get_files: tailwindcss_oxide::scanner: exit
+2026-05-13T17:33:18.819938Z  INFO get_globs: tailwindcss_oxide::scanner: enter
+2026-05-13T17:33:18.819949Z  INFO get_globs: tailwindcss_oxide::scanner: exit
+2026-05-13T17:33:43.300844Z  INFO discover_sources: tailwindcss_oxide::scanner: enter
+2026-05-13T17:33:43.300904Z  INFO discover_sources:walk_parallel: tailwindcss_oxide::scanner: enter
+2026-05-13T17:33:43.306362Z  INFO discover_sources:walk_parallel: tailwindcss_oxide::scanner: exit
+2026-05-13T17:33:43.307046Z  INFO discover_sources: tailwindcss_oxide::scanner: Reading "F:\\My work\\Boba Tea\\src\\components\\Hero.tsx"
+2026-05-13T17:33:43.307077Z  INFO discover_sources: tailwindcss_oxide::scanner: exit
+2026-05-13T17:33:43.307083Z  INFO extract_candidates: tailwindcss_oxide::scanner: enter
+2026-05-13T17:33:43.307086Z  INFO extract_candidates:parse_all_blobs: tailwindcss_oxide::scanner: enter
+2026-05-13T17:33:43.307090Z  INFO extract_candidates:parse_all_blobs:extract: tailwindcss_oxide::scanner: enter
+2026-05-13T17:33:43.307388Z  INFO extract_candidates:parse_all_blobs:extract: tailwindcss_oxide::scanner: exit
+2026-05-13T17:33:43.307407Z  INFO extract_candidates:parse_all_blobs: tailwindcss_oxide::scanner: exit
+2026-05-13T17:33:43.307443Z  INFO extract_candidates: tailwindcss_oxide::scanner: exit
+2026-05-13T17:33:43.307898Z  INFO get_files: tailwindcss_oxide::scanner: enter
+2026-05-13T17:33:43.307910Z  INFO get_files:discover_sources: tailwindcss_oxide::scanner: enter
+2026-05-13T17:33:43.307914Z  INFO get_files:discover_sources: tailwindcss_oxide::scanner: exit
+2026-05-13T17:33:43.308025Z  INFO get_files: tailwindcss_oxide::scanner: exit
+2026-05-13T17:33:43.308123Z  INFO get_globs: tailwindcss_oxide::scanner: enter
+2026-05-13T17:33:43.308134Z  INFO get_globs: tailwindcss_oxide::scanner: exit

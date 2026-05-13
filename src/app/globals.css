@@ -1,0 +1,57 @@
+@import "tailwindcss";
+
+:root {
+  --background: #F8F3ED; /* Cream */
+  --foreground: #111111; /* Pearl Black */
+}
+
+@theme inline {
+  --color-cream: #F8F3ED;
+  --color-caramel: #C98A4A;
+  --color-milk-tea: #8B5E3C;
+  --color-pearl-black: #111111;
+  
+  --font-sans: var(--font-outfit), ui-sans-serif, system-ui;
+  
+  --radius-xl: 1.5rem;
+  --radius-2xl: 2rem;
+
+  --animate-float: float 6s ease-in-out infinite;
+  --animate-ripple: ripple 1s cubic-bezier(0, 0.2, 0.8, 1) infinite;
+
+  @keyframes float {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-20px); }
+  }
+
+  @keyframes ripple {
+    0% { transform: scale(0); opacity: 1; }
+    100% { transform: scale(4); opacity: 0; }
+  }
+}
+
+/* Glassmorphism utilities */
+.glass {
+  background: rgba(255, 255, 255, 0.4);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.glass-dark {
+  background: rgba(17, 17, 17, 0.7);
+  backdrop-filter: blur(16px);
+  -webkit-backdrop-filter: blur(16px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
